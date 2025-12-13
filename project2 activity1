@@ -1,0 +1,11 @@
+<html>
+<head>Fuchen Aironwelz</head>
+<body>
+<strong>Hello my name is Fuchen aironwelz,im 12 years old, im in jakarta, i like sports ,like playing futsal and many more.</strong><br><!--strong makes bold-->
+<i>Hello my name is Fuchen Aironwelz,im 12 years old, im in jakarta,i like sports, i like playing futsal and many more.</i><br><!--makes italic-->
+<em>Hello my name is Fuchen Aironwelz,im 12 years old, im in jakarta,i like sports, i like playing futsal and many more</em><br>
+<mark>Hello my name is Fuchen Aironwelz,im 12 years old,im in jakarta,i like sports,i like playing futsal and many more</mark><br><!--mark makes highlight-->
+<small>Hello my name is fuchen Aironwelz,im 12 years old,im in jakarta,i like sports,i like playing futsal and many more</small><br><!--small-->
+<del>Hello my name is Fuchen Aironwelz,im 12 years old,im in jakarta,i like sports,i like olaying futsal and many more</del><br><!--del makes strike-->
+</body>
+</html>
